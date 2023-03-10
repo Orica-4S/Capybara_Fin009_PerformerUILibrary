@@ -1,0 +1,14 @@
+﻿{
+  "Id": "o-1nhY-f6Uao0v0zhxJenQ",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/o-1nhY-f6Uao0v0zhxJenQ",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/Pn0uolhZXUW0QN3kiHED4g",
+  "Name": "Label - Post with Clearing Display Overview",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-10T11:07:13.1554232Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:13.1554232Z"
+}
