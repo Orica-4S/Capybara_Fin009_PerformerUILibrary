@@ -1,0 +1,16 @@
+﻿{
+  "Id": "aOVyCIZG9kCq9Ii2C4vf3g",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/aOVyCIZG9kCq9Ii2C4vf3g",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "Bank Accounting Table_Account",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2023-03-24T02:11:22.7129412Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-24T02:18:32.7621877Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
