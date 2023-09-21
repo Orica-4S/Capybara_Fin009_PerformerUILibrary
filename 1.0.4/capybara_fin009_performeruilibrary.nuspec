@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata minClientVersion="3.3">
+    <id>Capybara_Fin009_PerformerUILibrary</id>
+    <version>1.0.4</version>
+    <title>Capybara_Fin009_PerformerUILibrary</title>
+    <authors>a9005130_adm</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>UI Library for Capybara_Fin009_Performer</description>
+    <releaseNotes>Updated code</releaseNotes>
+    <tags>Library VisualBasic VB UiPathStudioLibrary UiPathObjects</tags>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="UiPath.UIAutomation.Activities" version="[22.10.5]" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="**/*.*" buildAction="None" />
+    </contentFiles>
+  </metadata>
+</package>

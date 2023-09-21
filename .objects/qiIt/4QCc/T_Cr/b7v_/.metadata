@@ -1,0 +1,16 @@
+﻿{
+  "Id": "b7v_Cu96YEGw32dL6MUDEw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/b7v_Cu96YEGw32dL6MUDEw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/T_Crdybxbkau1Ps7mI76ew",
+  "Name": "ED1_Company Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-21T07:36:02.9235376Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-21T07:38:34.5161522Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

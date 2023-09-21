@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ytornI1ZB0OAjIteUHpzSQ" Reference="HLXiEbo_V0mRw1lnkGk7zg/OgeSKkgfu0SfPBG8uca5YA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sapem-sp.es.orica.net/sap/bc/gui/sap/its/webgui;~service=3200;~rfcHostName=uswiemxcivm00.es.orica.net;~sncNameR3=p%2fkrb5%3aSAPServiceEMX%2fuswiemxcivm00.es.orica.net%40ORI.ORICA.NET;~sncQoPR3=3?%7etransaction=FEB_BSPROC&amp;%7enosplash=1&amp;sap-client=010&amp;sap-language=EN&amp;sap-ie=edge&amp;sap-theme=sap_belize&amp;sap-target-navmode=explace&amp;sap-keepclientsession=1&amp;sap-shell=FLP1.60.40#" DesignTimeRectangle="162, 454, 276, 21" DesignTimeScaleFactor="0.8999999761581421" FriendlyName="'0010 Business'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display' /&gt;&lt;webctrl tag='INPUT' aaname='Transaction' /&gt;" FuzzySelectorArgument="&lt;webctrl id='application-BankStatementPP-display' /&gt;&lt;webctrl tag='INPUT' aaname='Transaction' type='text' class='lsField__input' /&gt;" Guid="acd44be7-a263-4888-a393-a85f66f68942" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAARgAAAAZCAYAAADqpTGdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABnSURBVHhe7dQxAQAwDASh+vf6GlIVtzFggbftAAqCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCATKCASK7D1SQNBrYe416AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Bank Statement*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="43a917001c5bf4dbd92ecc9cfcf39683.png" xmlns="">0q3yh6IjPz0mbHWV48lwJjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

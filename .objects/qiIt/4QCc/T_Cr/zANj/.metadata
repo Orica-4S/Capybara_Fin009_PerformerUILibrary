@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zANjSGLrj0WmAtbGRqBhPw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/zANjSGLrj0WmAtbGRqBhPw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/T_Crdybxbkau1Ps7mI76ew",
+  "Name": "ED1 From Statement Date",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-21T07:47:23.785213Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-21T07:51:51.5370665Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

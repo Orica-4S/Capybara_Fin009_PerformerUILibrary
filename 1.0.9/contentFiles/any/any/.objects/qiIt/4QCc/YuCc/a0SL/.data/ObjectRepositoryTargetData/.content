@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f51_QKKXMUC0aVwyT4esng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="19, 186, 17, 23" DesignTimeScaleFactor="1" FriendlyName="'grouping Table'" FullSelectorArgument="&lt;ctrl name='Column for row selection' role='column header' /&gt;&lt;ctrl name='Table selection menu' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Column for row selection' role='column header' /&gt;&lt;ctrl name='Table selection menu' role='grouping' automationid='' /&gt;" Guid="c49d6c77-72f6-447c-b86f-8c6d28c78f85" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABUAAAAbCAYAAACTHcTmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADPSURBVEhL7dQ7C4MwFIbh/v8f4yBeQMH7JIKDq0PxgkXEOgSk09eeDGLQIdV0KQrv5DlPMuX2ZC9Q8zwr67doWZbIskxJC9q2LaZpOhztb256obvDsv0ZWhQFDMOA7/sIgkD4t5c0GoYhHMeBaZocp9Yz66TRKIr4LT3P4wdYlgXbtpHnuTBLSaFVVUHTNI4xxpaFruuOo1SapnBdVy1a1zV0XVeLUnEc85eHICpJkvNo3/domkZoGIbN3FeobBd6oTuoqgT0zEf798f4acQb+6RZ/iiHJLQAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin*' title='Edit Bank Statement Item*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="447076c7a6376a9d90edd5fd5dcb35f8.png" xmlns="">0Z8sgKr-I7kC9D50FUJgWaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

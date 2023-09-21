@@ -1,0 +1,14 @@
+﻿{
+  "Id": "FhpHMVoFF0-rRev0Z6OIsA",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/FhpHMVoFF0-rRev0Z6OIsA",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "Selection of Bank Statements Items",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-10T11:07:11.5939987Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:11.5939987Z"
+}
