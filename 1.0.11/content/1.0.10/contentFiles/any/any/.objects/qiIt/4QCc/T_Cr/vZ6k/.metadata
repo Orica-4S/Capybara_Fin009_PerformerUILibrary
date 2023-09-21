@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vZ6kU0tFtkWftXXjtaY0Rw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/vZ6kU0tFtkWftXXjtaY0Rw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/T_Crdybxbkau1Ps7mI76ew",
+  "Name": "ED1 House Bank",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-21T07:52:39.4330418Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-21T07:54:56.9581721Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

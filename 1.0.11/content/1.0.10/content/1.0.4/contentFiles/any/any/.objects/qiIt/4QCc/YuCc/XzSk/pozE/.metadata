@@ -1,0 +1,13 @@
+﻿{
+  "Id": "pozE3h1TDECH8eDJMUZNfg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/pozE3h1TDECH8eDJMUZNfg",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/XzSknKusIE6-cfNVX2rFfQ",
+  "Name": "Field - Account",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:12.6108486Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:12.6108486Z"
+}

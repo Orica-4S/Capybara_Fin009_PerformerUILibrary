@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pZF6hvPbb0uN_aEVJeXbMA" Reference="HLXiEbo_V0mRw1lnkGk7zg/0DRURr2g3kOBBvfDpcAkFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sapem-sp.es.orica.net/sap/bc/gui/sap/its/webgui;~service=3200;~rfcHostName=uswiemxcivm00.es.orica.net;~sncNameR3=p%2fkrb5%3aSAPServiceEMX%2fuswiemxcivm00.es.orica.net%40ORI.ORICA.NET;~sncQoPR3=3?%7etransaction=FEB_BSPROC&amp;%7enosplash=1&amp;sap-client=010&amp;sap-language=EN&amp;sap-ie=edge&amp;sap-theme=sap_belize&amp;sap-target-navmode=explace&amp;sap-keepclientsession=1&amp;sap-shell=FLP1.60.40#" DesignTimeRectangle="1075, 251, 229, 14" DesignTimeScaleFactor="0.8999999761581421" FriendlyName="'SPAN grid#C157#1,17#if'" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='*application-BankStatement*' /&gt;&lt;webctrl name='InputField' tableCol='15' tableRow='{0}' /&gt;&quot;, strRowNumber)]" FuzzySelectorArgument="&lt;webctrl id='*application-BankStatement*' /&gt;&lt;webctrl name='InputField' tag='SPAN' type='' class='lsField__input' aaname='' /&gt;" Guid="24b7158f-e82d-496a-88a4-a8c1cd6604ed" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAQMAAAAUCAYAAACJdVhcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABfSURBVHhe7dRBAcAwEMOw8edZAkegWz0YlT5BED/7s9Y6A1zo/H9mthjA5cQAiBgAEQMgYgBEDICIARAxACIGQMQAiBgAEQMgYgBEDICIARAxACIGQMQAiBgA+WMw+wXZh5SFp98jAAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d09dd9aa9ec51022d9b5d3e181cdcb22.png" xmlns="">06pxbiogr4E-0IzsLay7I5w</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="1" Name="strRowNumber" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

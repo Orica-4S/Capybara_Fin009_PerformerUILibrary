@@ -1,0 +1,16 @@
+﻿{
+  "Id": "aZlR7Nz3O0e-lknhjr2nRQ",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/aZlR7Nz3O0e-lknhjr2nRQ",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/i3LGRTeWTkOl34u2rsKWcw",
+  "Name": "Input - Cost Center",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:11.8861226Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:11.8861226Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

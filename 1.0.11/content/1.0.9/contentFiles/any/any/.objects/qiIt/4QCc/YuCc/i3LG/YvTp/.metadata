@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YvTpgJwYK02vOu4q8g6xJg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/YvTpgJwYK02vOu4q8g6xJg",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/i3LGRTeWTkOl34u2rsKWcw",
+  "Name": "Input - Text",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:11.9831281Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:11.9831281Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

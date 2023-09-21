@@ -1,0 +1,15 @@
+﻿{
+  "Id": "XA3mnYM-mkePcI5R833nOA",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/XA3mnYM-mkePcI5R833nOA",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/8fFiCaA7oEqYT4zwmOxaUw",
+  "Name": "Button- Yes",
+  "Description": "Button -Yes (Inside Popup - Change to Transaction)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-10T11:07:11.4814813Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:11.4814813Z"
+}

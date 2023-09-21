@@ -1,0 +1,14 @@
+﻿{
+  "Id": "i80c0dQ38kqmuW0GVBV88A",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/i80c0dQ38kqmuW0GVBV88A",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/-mqUTJ3sKk-erDnDqxv6Rg",
+  "Name": "Input_Search In: Apps",
+  "Description": "Used to input text in the Search Bar on Home Screen.",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-10T11:07:13.3866527Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:13.3866527Z"
+}

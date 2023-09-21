@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TZzk8UrU2UOkokqGhiUMUQ",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/TZzk8UrU2UOkokqGhiUMUQ",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/D3Fn12ozEkSgy9VPh-ovcg",
+  "Name": "Field - Net Amount",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:12.7881364Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:12.7881364Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

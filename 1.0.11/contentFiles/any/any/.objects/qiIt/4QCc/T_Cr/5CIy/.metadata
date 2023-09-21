@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5CIyUHHf10OjP5ubXmAwfw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/5CIyUHHf10OjP5ubXmAwfw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/T_Crdybxbkau1Ps7mI76ew",
+  "Name": "ED1 Amount",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-21T07:41:52.8576321Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-21T07:46:51.3601326Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "FA0gbNt6xkSvqxdTGBmIcg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/FA0gbNt6xkSvqxdTGBmIcg",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "Input_Dropdown -Business Partner Payment",
+  "Description": "Select Business Partner Payment in Transaction DropDown",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-10T11:07:11.372518Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:11.372518Z"
+}

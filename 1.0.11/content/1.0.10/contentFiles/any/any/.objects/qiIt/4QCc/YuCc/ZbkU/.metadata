@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ZbkUJS7xQ020XApGDOFROg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/ZbkUJS7xQ020XApGDOFROg",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "Button - Select All",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:10.9995128Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:10.9995128Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

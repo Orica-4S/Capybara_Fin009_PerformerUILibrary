@@ -10,5 +10,8 @@
     "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-03-10T11:07:13.4194922Z"
+  "Updated": "2023-09-21T08:25:13.2273777Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

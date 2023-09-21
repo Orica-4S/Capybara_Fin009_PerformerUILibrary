@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YTXo_ctElUOwFZJrEp2-WA" Reference="HLXiEbo_V0mRw1lnkGk7zg/so2NLGjRakGy-VOThVds6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sapem-sp.es.orica.net/sap/bc/gui/sap/its/webgui;~service=3200;~rfcHostName=uswiemxcivm00.es.orica.net;~sncNameR3=p%2fkrb5%3aSAPServiceEMX%2fuswiemxcivm00.es.orica.net%40ORI.ORICA.NET;~sncQoPR3=3?%7etransaction=FEB_BSPROC&amp;%7enosplash=1&amp;sap-client=010&amp;sap-language=EN&amp;sap-ie=edge&amp;sap-theme=sap_belize&amp;sap-target-navmode=inplace&amp;sap-keepclientsession=1&amp;sap-shell=FLP1.60.40#" DesignTimeRectangle="414, 253, 52, 21" DesignTimeScaleFactor="0.8999999761581421" ElementType="InputBox" FriendlyName="'INPUT M1:46:::2:32'" FullSelectorArgument="&lt;webctrl id='*BankStatement*' /&gt;&lt;webctrl tag='INPUT' aaname='House*' /&gt;" FuzzySelectorArgument="&lt;webctrl id='*BankStatement*' /&gt;&lt;webctrl tag='INPUT' aaname='House*' type='text' class='lsField__input' /&gt;" Guid="371362d1-ef7c-4bf8-8f9a-a22bb8252115" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADgAAAAZCAYAAABkdu2NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABCSURBVFhH7c9BEQAgDMRA/JuqtBY+9ZAjOxMBOX1VVWTPDqZxkM5BOgfpHKRzkM5BOgfpHKRzkM5Buv8GE9vBXN0DKs9ZXNkNXXcAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SAP' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e395d96a58797f74572a50bae5006719.png" xmlns="">0vMLfUDyIeEai2KxU_VERbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

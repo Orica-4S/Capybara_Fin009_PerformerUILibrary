@@ -1,0 +1,16 @@
+﻿{
+  "Id": "nqQSZ9ldpUuSwzr4rWe-HQ",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/nqQSZ9ldpUuSwzr4rWe-HQ",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/-mqUTJ3sKk-erDnDqxv6Rg",
+  "Name": "ED1 Search All Options",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-21T05:51:26.0495941Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-21T05:53:05.801829Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

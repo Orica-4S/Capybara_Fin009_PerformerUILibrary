@@ -1,0 +1,15 @@
+﻿{
+  "Id": "jE5Wz2aBSEW94FelVSOWQw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/jE5Wz2aBSEW94FelVSOWQw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/-mqUTJ3sKk-erDnDqxv6Rg",
+  "Name": "Button_Image_PostSearch",
+  "Description": "Search Button Post Clicking Search Button once- As after clicking on Search Button once Element Attribute changes once Search Text Field Opens",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:13.2918212Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:13.2918212Z"
+}

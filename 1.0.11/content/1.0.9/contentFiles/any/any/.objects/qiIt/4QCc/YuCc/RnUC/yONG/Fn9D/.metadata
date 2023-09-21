@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Fn9Dy1ool0uimiVmv8abzg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/Fn9Dy1ool0uimiVmv8abzg",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/yONG_gBSO0SmQ5SJzg0_aw",
+  "Name": "Input - Company Code",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-10T11:07:12.2371963Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:12.2371963Z"
+}
