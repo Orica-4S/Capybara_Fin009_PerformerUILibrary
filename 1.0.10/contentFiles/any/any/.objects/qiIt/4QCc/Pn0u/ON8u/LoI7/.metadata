@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LoI7eOt-7E6YanT-4VEC5A",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/LoI7eOt-7E6YanT-4VEC5A",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/ON8u3CFJvkCmyEnQZXlS5w",
+  "Name": "Button - Accept",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:13.0887483Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:13.0887483Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

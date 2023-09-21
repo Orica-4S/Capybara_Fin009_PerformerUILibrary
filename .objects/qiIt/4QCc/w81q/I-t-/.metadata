@@ -1,0 +1,16 @@
+﻿{
+  "Id": "I-t-ddam10SIwF4-ZY6hBQ",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/I-t-ddam10SIwF4-ZY6hBQ",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/w81qHnVRFU-WciGABliGMA",
+  "Name": "ED1 Selections of Bank Statements Items Title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-21T08:11:43.5242138Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-21T08:14:45.2813384Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

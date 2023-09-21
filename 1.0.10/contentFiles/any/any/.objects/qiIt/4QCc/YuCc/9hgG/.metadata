@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9hgGeZpGGUOpe8wtoOuY6g",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/9hgGeZpGGUOpe8wtoOuY6g",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "Field - Partner",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-10T11:07:11.3360329Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-10T11:07:11.3360329Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
