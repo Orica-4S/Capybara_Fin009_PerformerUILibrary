@@ -1,0 +1,16 @@
+﻿{
+  "Id": "WUFa4OorhkCJRZcLv_ZFBA",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/WUFa4OorhkCJRZcLv_ZFBA",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "ED1 Transaction Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-25T05:16:55.5656575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T05:18:14.6989417Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

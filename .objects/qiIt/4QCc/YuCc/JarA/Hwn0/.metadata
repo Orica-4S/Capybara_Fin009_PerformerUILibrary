@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Hwn0lvnOrE-UDBIlTFrDLg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/Hwn0lvnOrE-UDBIlTFrDLg",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/JarABZpPQkmUfJsfcgEv4g",
+  "Name": "ED1 Yes Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-25T05:12:39.290168Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T05:14:15.2454693Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

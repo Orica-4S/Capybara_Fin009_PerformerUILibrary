@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JarABZpPQkmUfJsfcgEv4g",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/JarABZpPQkmUfJsfcgEv4g",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "ED1 Change Transaction Pop up",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-25T05:10:50.6032146Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T05:12:04.3071982Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
