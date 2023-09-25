@@ -1,0 +1,14 @@
+﻿{
+  "Id": "BHkzVdqE5kSVDzHk6wrInA",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/BHkzVdqE5kSVDzHk6wrInA",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/EWvtfNVcbUCdjXvn-U7pBQ",
+  "Name": "Label - BUKRS",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-09-25T07:53:44.1340566Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T07:53:44.1340566Z"
+}

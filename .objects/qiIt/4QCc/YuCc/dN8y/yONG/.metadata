@@ -1,0 +1,13 @@
+﻿{
+  "Id": "yONG_gBSO0SmQ5SJzg0_aw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/yONG_gBSO0SmQ5SJzg0_aw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/dN8yllIhIkWTEJkpJCe20w",
+  "Name": "Button- Read More Items",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-09-25T07:53:44.051199Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T07:53:44.051199Z"
+}

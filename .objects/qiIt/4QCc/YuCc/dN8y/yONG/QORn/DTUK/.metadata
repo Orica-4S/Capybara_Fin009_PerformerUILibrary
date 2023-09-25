@@ -1,0 +1,13 @@
+﻿{
+  "Id": "DTUKKlp3-UiQPSSTFxna1A",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/DTUKKlp3-UiQPSSTFxna1A",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/QORnEWets0u4J6DmARATEg",
+  "Name": "Input-Single Value Row",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-09-25T07:53:44.163996Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T07:53:44.163996Z"
+}

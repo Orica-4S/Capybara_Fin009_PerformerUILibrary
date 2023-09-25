@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dN8yllIhIkWTEJkpJCe20w",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/dN8yllIhIkWTEJkpJCe20w",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/YuCcTKXxr0WIBHMcTn6uUQ",
+  "Name": "Tab - Assignment",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-25T07:37:10.812893Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-25T07:59:07.6724612Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
