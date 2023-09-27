@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="Egzngnb7hk-F39gNsTfZWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-sp.orica.net/fiori#Shell-home" DesignTimeRectangle="1296, 86, 11, 16" DesignTimeScaleFactor="0.6700000166893005" FriendlyName="'SAP.UI.CORE.ICON search…'" FullSelectorArgument="&lt;webctrl id='searchFieldInShell-button-img' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='searchFieldInShell-button-img' tag='SPAN' type='' class='sapMBtnCustomIcon sapMBtnIcon sapMBtnIconLeft sapUiIcon' aaname='' /&gt;" Guid="9ec26d66-1f02-460f-b649-de7dedc13892" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Home' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="02fe4d0bc21bb71c8d0e6357d8f73b8e.png" xmlns="">0S_ueKvpMBU-vpANbGd5crA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

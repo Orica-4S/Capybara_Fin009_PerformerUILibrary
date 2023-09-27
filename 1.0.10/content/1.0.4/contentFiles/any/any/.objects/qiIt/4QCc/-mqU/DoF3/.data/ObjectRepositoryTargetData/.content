@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ZHbCBhabGUWPhC9TwAxoDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-sp.orica.net/fiori#Shell-home" DesignTimeRectangle="1283, 79, 29, 29" DesignTimeScaleFactor="0.6700000166893005" ElementType="Text" FriendlyName="'unchecked'" FullSelectorArgument="&lt;webctrl aria-label='Search' aria-role='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='Search' aria-role='button' tag='A' type='' class='sapUshellHeaderHideSeparators sapUshellShellHeadItm' aaname='' check:text='unchecked' /&gt;" Guid="d2dba81a-910c-4eca-975d-ad8aa3e9942e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Home' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="aadd5ce81187ec4f988cfdabcbf3db28.png" xmlns="">0P23KiSobNk25Fa9Akj0xeg</imageRef>
-    </TargetAnchorable>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

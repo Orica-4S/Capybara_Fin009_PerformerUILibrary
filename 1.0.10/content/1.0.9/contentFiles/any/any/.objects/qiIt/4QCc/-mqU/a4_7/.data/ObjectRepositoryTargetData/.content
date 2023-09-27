@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ibxAvh_G50Cz2qZG3tQ-zA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-dt.orica.net/fiori#Action-search&amp;/top=10&amp;filter=%7B%22dataSource%22%3A%7B%22type%22%3A%22Category%22%2C%22id%22%3A%22All%22%2C%22label%22%3A%22All%22%2C%22labelPlural%22%3A%22All%22%7D%2C%22searchTerm%22%3A%22Bank%20StatementPostprocessing%22%2C%22rootCondition%22%3A%7B%22type%22%3A%22Complex%22%2C%22operator%22%3A%22And%22%2C%22conditions%22%3A%5B%5D%7D%7D" DesignTimeRectangle="51, 192, 176, 176" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Bank Statement'" FullSelectorArgument="&lt;webctrl aaname='Bank Statement Postprocessing' aria-label='Bank Statement Postprocessing&amp;#xA;Tile' aria-role='link' innertext='Bank Statement Postprocessing' visibleinnertext='Bank Statement Postprocessing' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Bank Statement Postprocessing' aria-label='Bank Statement Postprocessing&amp;#xA;Tile' aria-role='link' innertext='Bank Statement Postprocessing' visibleinnertext='Bank Statement Postprocessing' tag='A' type='' class='sapMGT sapMGTStateLoaded sapMGTScopeDisplay OneByOne sapMPointer' check:text='Bank Statement Postprocessing' /&gt;" Guid="07f7a3d2-0805-4f73-b6cc-b395658b11b9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search for Bank StatementPostprocessing' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="236288ba8f39f2de9f19645ba0c7f0ec.png" xmlns="">0fjTa1P4w8E2wSQwLv-GxNw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

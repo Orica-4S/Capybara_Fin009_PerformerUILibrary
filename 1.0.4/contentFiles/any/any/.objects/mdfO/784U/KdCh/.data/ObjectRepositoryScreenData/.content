@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryScreenData ContentHash="NkpLPGKvr0i64AirHLti7A" Reference="HLXiEbo_V0mRw1lnkGk7zg/KdCh3XXYkE--Gkm5l0_rug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryScreenData.Data>
-    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Edge" ContentHash="u30eSdPWlUy8-wDkrYlUwA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEUSURBVDhPY0AHzDkFBkC8H4j/I2EQ3wCqBDcAKQLi91BN6Bgkjt8QoIL7SBqw4ftQpQjA3Nz+Hoj/48VNbciGOEC1QgBWDVgwo6UNYQMmnjz9Hxkgy/F4+f6Xmr0Qhu8DcQCGASAAMgTETtq0BS4Owry+AcgGwHAAigEXXrwEG7Lw4qX/ypOnEWPAfRQDhLv7/zcePPz//fcfYAziEzDgP4oBIGfDDAEBo1nzSDMAZCsMHHjwEC4OwqKRcdgMQPUCPiydnPFffvEqdAPAgUgwIbE2toINUFy2FqYREY3oAKjQAaQYHWtOnfPf/NgF1ESEDQAVCQDxfSAGaUDGIDEBqDL8AKjQAIjPQzWCMIiNJScyMAAAIGu1wTJAuKMAAAAASUVORK5CYII=" Reference="HLXiEbo_V0mRw1lnkGk7zg/KdCh3XXYkE--Gkm5l0_rug" Selector="&lt;html app='msedge.exe' title='*GBS Acounts Receivable*' /&gt;" Url="https://orica.sharepoint.com/teams/collab_000792/Shared%20Documents/Forms/AllItems.aspx?ga=1&amp;id=%2Fteams%2Fcollab%5F000792%2FShared%20Documents%2FCAPYBARA%20Remit%20Details&amp;viewid=4b1093b6%2D6a24%2D4ae1%2D81e4%2D11fb0a34b1ea">
-      <imageRef attrName="InformativeScreenshot" originalValue="d631cd37bd872fbbd52c402c79051dfb.jpg" xmlns="">0Jolb5e5FJEePT-W-2piOhw</imageRef>
-    </TargetApp>
-  </ObjectRepositoryScreenData.Data>
-</ObjectRepositoryScreenData>

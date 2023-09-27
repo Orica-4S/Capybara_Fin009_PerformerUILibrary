@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="D2ADzCwq1kOl0SeooHkXaA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sapem-dt.es.orica.net/sap/bc/gui/sap/its/webgui;~rfcHostName=uswied1civm00.es.orica.net;~service=3200;~sncNameR3=p%2fkrb5%3aSAPServiceED1%2fuswied1civm00.es.orica.net%40ORI.ORICA.NET;~sncQoPR3=3?sap-iframe-hint=GUI#" DesignTimeRectangle="432, 218, 108, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'INPUT M1:46:::5:32'" FullSelectorArgument="&lt;webctrl id='*BankStatement*' tag='IFRAME' /&gt;&lt;webctrl aaname='Statement Date' aria-role='textbox' name='InputField' uipath-html-title='Statement Date' /&gt;" FuzzySelectorArgument="&lt;webctrl id='*BankStatement*' tag='IFRAME' /&gt;&lt;webctrl aaname='Statement Date' aria-role='textbox' name='InputField' uipath-html-title='Statement Date' tag='INPUT' type='text' class='lsField__input' /&gt;" Guid="08ae20b4-a9b0-410a-af27-4d10b7039acb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAHAAAAAcCAYAAAC51jtqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACgSURBVGhD7dqxCcNgDAXhrO8yrV259EqBQEbIbw+g5AliyAY+uAM1aj/U6VaGrgHHOGpZt5ruswOY+WsVsxMwi8fz1Qu7frHKwaUGjKqx+pkJCE1AeALCExCegPAEhCcgPAHhCQhPQHgCwhMQnoDwBIQnIDwB4QkIT0B4AsITEJ6A8P4A86LmWyGnWOUVNDXge+y9iKpz/cnBxewENGpVH1s4fcLAwyXqAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SAP' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f7e7ad5a3cbafdd6c714943ea08ea636.png" xmlns="">0QYs77Chwp0S3KUgUmTca_Q</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
