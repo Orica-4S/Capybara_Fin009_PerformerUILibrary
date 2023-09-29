@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="f7ss2xSFYUKIL2SDl219iA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="BA_3rMke7kaO9rWjZVN7Fg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="445, 269, 1565, 200" DesignTimeScaleFactor="1" FriendlyName="'0090178777RV07.04.20212…'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='42' tableRow='24' tag='TABLE' /&gt;" Guid="fc1e0d19-2838-4b09-ac64-14b9ea5ff3f1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="c9d2ffa5c538bd2b61f5caf6992a4be3.png" xmlns="">0GTjdas_mL0W_Hm1CsLUrNA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="445, 269, 1565, 200" DesignTimeScaleFactor="1" FriendlyName="'0090178777RV07.04.20212…'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='42' tableRow='24' tag='TABLE' /&gt;" Guid="660ea65a-8d04-4505-b02a-061d6877f731" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a1b4c51e50376d502c9db4342e3cea2b.png" xmlns="">0nrfpeAWs50mNCg141oDUEA</imageRef>
     </TargetAnchorable>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table'&gt;
 	&lt;Column xsi:type='DataColumn' ReferenceName='Column-0' ReferenceIdx='0' Name='Reference'&gt;
@@ -10,77 +10,77 @@
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-1' ReferenceIdx='1' Name='Column-1'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-1' ReferenceIdx='1' Name='Column-1' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-2' ReferenceIdx='2' Name='Column-2'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-2' ReferenceIdx='2' Name='Column-2' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-3' ReferenceIdx='3' Name='Column-3'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-3' ReferenceIdx='3' Name='Column-3' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-4' ReferenceIdx='4' Name='Column-4'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-4' ReferenceIdx='4' Name='Column-4' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-5' ReferenceIdx='5' Name='Column-5'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-5' ReferenceIdx='5' Name='Column-5' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-6' ReferenceIdx='6' Name='Column-6'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-6' ReferenceIdx='6' Name='Column-6' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-7' ReferenceIdx='7' Name='Column-7'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-7' ReferenceIdx='7' Name='Column-7' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-8' ReferenceIdx='8' Name='Column-8'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-8' ReferenceIdx='8' Name='Column-8' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-9' ReferenceIdx='9' Name='Column-9'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-9' ReferenceIdx='9' Name='Column-9' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-10' ReferenceIdx='10' Name='Column-10'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-10' ReferenceIdx='10' Name='Column-10' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-11' ReferenceIdx='11' Name='Column-11'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-11' ReferenceIdx='11' Name='Column-11' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-12' ReferenceIdx='12' Name='Column-12'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-12' ReferenceIdx='12' Name='Column-12' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-13' ReferenceIdx='13' Name='Column-13'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-13' ReferenceIdx='13' Name='Column-13' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-14' ReferenceIdx='14' Name='Column-14'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-14' ReferenceIdx='14' Name='Column-14' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
 	&lt;/Column&gt;
-	&lt;Column xsi:type='DataColumn' ReferenceName='Column-15' ReferenceIdx='15' Name='Column-15'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column-15' ReferenceIdx='15' Name='Column-15' IsDeleted='true'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
