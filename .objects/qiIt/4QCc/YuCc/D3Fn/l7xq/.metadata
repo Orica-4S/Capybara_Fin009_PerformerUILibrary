@@ -4,13 +4,13 @@
   "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/D3Fn12ozEkSgy9VPh-ovcg",
   "Name": "Extract Table",
   "Type": "Element",
-  "TaxonomyType": "Element",
+  "TaxonomyType": "Table",
   "Created": "2023-09-27T10:30:39.1643043Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=22.10.7.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-09-27T10:31:24.018353Z",
+  "Updated": "2023-09-29T16:02:47.4846531Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ]
