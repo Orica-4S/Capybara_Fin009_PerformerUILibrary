@@ -1,16 +1,16 @@
 ﻿{
-  "Id": "l7xq3O9eJkqxDvXE4dK7RA",
-  "Reference": "4Hza26lhsEamfrAJcLIT0Q/l7xq3O9eJkqxDvXE4dK7RA",
+  "Id": "CFdzo0Zrekq2a54LXS8dJg",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/CFdzo0Zrekq2a54LXS8dJg",
   "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/D3Fn12ozEkSgy9VPh-ovcg",
-  "Name": "Extract Table",
+  "Name": "Extract TableData",
   "Type": "Element",
   "TaxonomyType": "Table",
-  "Created": "2023-09-27T10:30:39.1643043Z",
+  "Created": "2023-09-29T17:22:49.319112Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=22.10.7.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-09-29T16:02:47.4846531Z",
+  "Updated": "2023-09-29T17:24:16.3782477Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ]
