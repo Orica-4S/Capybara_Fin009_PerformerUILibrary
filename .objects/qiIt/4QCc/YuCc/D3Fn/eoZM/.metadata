@@ -1,15 +1,16 @@
 ﻿{
-  "Id": "T5t5vHHJGk61DUd8Im4xfg",
-  "Reference": "4Hza26lhsEamfrAJcLIT0Q/T5t5vHHJGk61DUd8Im4xfg",
+  "Id": "eoZMmSy4SECEkIO2YFJK8w",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/eoZMmSy4SECEkIO2YFJK8w",
   "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/D3Fn12ozEkSgy9VPh-ovcg",
-  "Name": "Extract",
+  "Name": "Extract Table Data ED1 (7)",
   "Type": "Element",
   "TaxonomyType": "Element",
-  "Created": "2023-10-06T09:11:27.6516646Z",
+  "Created": "2023-10-06T11:24:34.3440636Z",
   "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.7.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-10-06T09:14:44.2580989Z",
+  "Updated": "2023-10-06T12:13:00.203418Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ]

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "xzKPZRKfpUG-OaWGRavyTw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/xzKPZRKfpUG-OaWGRavyTw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/D3Fn12ozEkSgy9VPh-ovcg",
+  "Name": "Extract Table Data ED1 All Col",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-10-06T12:15:50.395464Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-10-06T12:15:50.395464Z"
+}
