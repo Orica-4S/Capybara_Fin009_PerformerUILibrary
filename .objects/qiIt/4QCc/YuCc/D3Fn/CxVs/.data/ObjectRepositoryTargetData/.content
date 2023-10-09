@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="0r8i8wD9pEyP0W82tdgBlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="xYWKwI5JKUWpZbOpCcZbGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="445, 269, 1565, 175" DesignTimeScaleFactor="1" FriendlyName="'0090178777RV07.04.20212…'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='37' tableRow='24' tag='TABLE' /&gt;" Guid="fdd617c8-4034-47b0-b1df-d8d28a663d76" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="1540a307cd694a9306d33d53ce0bf455.png" xmlns="">0fqWQ2VVEyUSIQSa4kljltw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="445, 269, 1565, 200" DesignTimeScaleFactor="1" FriendlyName="'0090178777RV07.04.20212…'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='*' tableRow='24' tag='TABLE' id='C157-mrss-cont-none-content' parentclass='urBorderBox' /&gt;" Guid="9e4f26bd-9267-4d7c-beab-80379707378e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="369c4aa06a924f7b79736546a202da2c.png" xmlns="">0Bo2431bsJEuLEH9xmZN2Bg</imageRef>
     </TargetAnchorable>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table'&gt;
-	&lt;Column xsi:type='DataColumn' Name='Column-0' ReferenceName='Column-0' ReferenceIdx='0'&gt;
+	&lt;Column xsi:type='DataColumn' Name='Reference' ReferenceName='Column-0' ReferenceIdx='0'&gt;
 		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
 		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
 		&lt;Format xsi:type='TextColumnFormat' /&gt;
