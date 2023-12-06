@@ -1,0 +1,14 @@
+﻿{
+  "Id": "jo5xN0qsoEybwND4JZZ-gw",
+  "Reference": "4Hza26lhsEamfrAJcLIT0Q/jo5xN0qsoEybwND4JZZ-gw",
+  "ParentRef": "4Hza26lhsEamfrAJcLIT0Q/i3LGRTeWTkOl34u2rsKWcw",
+  "Name": "Table - Account Assignment ED1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-12-06T12:13:43.8518403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-12-06T12:13:43.8518403Z"
+}
