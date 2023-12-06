@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="csyOlYWnzkCHNPJEANT9Zg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="FSPxUqYjLUi3a11RHPDtKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="71, 269, 1467, 25" DesignTimeScaleFactor="1" FriendlyName="'Credit0.00SEK'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='3' tableRow='17' tag='TABLE' /&gt;" Guid="b7d4efb0-bf4e-45fd-95c5-95f952070c9d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="4708983a3710123a93d71fe5a74ed728.png" xmlns="">05mTSOTdg8kqQLH6uNplKog</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="71, 269, 1467, 25" DesignTimeScaleFactor="1" FriendlyName="'Credit0.00SEK'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='*' tableRow='17' tag='TABLE' /&gt;" Guid="a5c8f3e5-f1ff-43db-b110-b79688884e63" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b24c93bad4d1bac98d9cda1ce809dd37.png" xmlns="">0M7rShVW0ck-3xEHsD6zO-Q</imageRef>
     </TargetAnchorable>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table'&gt;
 	&lt;Column xsi:type='DataColumn' ReferenceName='Column-0' ReferenceIdx='0' Name='Column-0'&gt;
