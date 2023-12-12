@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="nC0saYC6W0SN0Jhp5DPrgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="l5TJKb3YD0S2Iqm3fhj8GQ" Reference="4Hza26lhsEamfrAJcLIT0Q/a4yQaMslMEOnCII5bgt8qA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="425, 272, 1565, 375" DesignTimeScaleFactor="1" FriendlyName="'0090451277RG03.08.20222…'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display' /&gt;&lt;webctrl tableCol='*' tableRow='24' idx='2' tag='TABLE' /&gt;" Guid="a27b1cd2-5642-4cb6-9ede-a8ca4afd12b4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="4b28dbdfd09a25b33adcc60b9f7d2c28.png" xmlns="">0JJf0EPQbrUOiIeTTerBSSA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="425, 272, 1565, 375" DesignTimeScaleFactor="1" FriendlyName="'Extract Table Data'" FullSelectorArgument="&lt;webctrl id='application-BankStatementPP-display-iframe' tag='IFRAME' /&gt;&lt;webctrl tableCol='*' tableRow='24' idx='2' tag='TABLE' /&gt;" Guid="a27b1cd2-5642-4cb6-9ede-a8ca4afd12b4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Edit Bank Statement Item' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4b28dbdfd09a25b33adcc60b9f7d2c28.png" xmlns="">0brZh5mx-6Ee5qr8lVfBoAg</imageRef>
     </TargetAnchorable>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table'&gt;
 	&lt;Column xsi:type='DataColumn' ReferenceName='Column-0' ReferenceIdx='0' Name='Reference'&gt;
